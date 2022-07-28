@@ -1,0 +1,36 @@
+{
+  "name": "m-react-ts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React+TS 项目模版",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmmmzl/M-React-TS.git"
+  },
+  "keywords": [],
+  "author": "M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmmmzl/M-React-TS/issues"
+  },
+  "homepage": "https://github.com/mmmmmzl/M-React-TS#readme",
+  "dependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "typescript": "^4.7.4",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3",
+    "webpack-merge": "^5.8.0"
+  }
+}
